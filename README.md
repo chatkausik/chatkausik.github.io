@@ -1,8 +1,8 @@
 # Data Scientist
 
 ### Education
-Data Science, MS
-Bachelor of Engineering
+- Data Science, MS
+- Bachelor of Engineering
 
 ### Work Experience
 Advisor II , Software Development Engineering @ Fiserv
