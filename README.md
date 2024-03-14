@@ -6,7 +6,7 @@
 - MS, Data Science | Bellevue University (_June 2024_)
 - B.E., Electrical Engineering | Bengal Engineering  and Science University, India (_July 2006_)
 
-### Work Experience
+## Work Experience
 **Advisor II , Software Development Engineering @ Fiserv (_Nov 2020 - Present_)**
 - An integrated customer analytics and decision management platform that combines analysis, prediction and strategy.
 - A business intelligence solution, DataChoice that provides a comprehensive data analysis platform for easy access to 15,000+ data elements.
