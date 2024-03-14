@@ -1,4 +1,5 @@
 # Data Scientist
+Passionate software engineer & data scientist with experience in Big Data technologies - Map Reduce, PIG, HIVE, Spark, HBase, designing predictive modeling, implementing and adapting technically sophisticated machine learning, and deep learning models using Python, Matlab, Statistics, PySpark, Data Visualization, SQL, NoSQL, DB2, Java, Mainframe and Microsoft Technologies.
 
 #### Technical skills: Python, R, SQL, AWS, Matlab, Statistics, Bigdata, PySpark, Data  Visualization, NoSQL, DB2, Java, Mainframe and Microsoft Technologies.
 
