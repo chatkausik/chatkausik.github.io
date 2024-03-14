@@ -1,5 +1,7 @@
 # Data Scientist
 
+### Technical skills: Python, R, SQL, AWS, Matlab, Statistics, Bigdata, PySpark, Data Visualization, NoSQL, DB2, Java, Mainframe and Microsoft Technologies.
+
 ### Education
 - Data Science, MS
 - Bachelor of Engineering
