@@ -2,7 +2,7 @@
 
 A data science project to predict whether a transaction is a fraud or not.
 
-[Fraud Detection](https://nexocode.com/images/nlp-in-telecommunication-thumbnail.webp)
+![Fraud Detection](https://nexocode.com/images/nlp-in-telecommunication-thumbnail.webp)
 
 
 ## 1.0 Business Problem
