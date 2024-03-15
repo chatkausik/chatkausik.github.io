@@ -3,7 +3,7 @@
 A data science project to predict whether a transaction is a fraud or not.
 
 <div align="center">
-    <img alt="churn" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.turkhackteam.org%2Fkonular%2Fapple-cihazlari-hacklemek-mumkun-mu.1955764%2F&psig=AOvVaw1_Y9lfNdU8vGZ_jHWJPNdT&ust=1710561352541000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNDYw_ev9YQDFQAAAAAdAAAAABAE" width="100%" height="300">
+    <img alt="churn" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.turkhackteam.org%2Fkonular%2Fapple-cihazlari-hacklemek-mumkun-mu.1955764%2F&psig=AOvVaw1_Y9lfNdU8vGZ_jHWJPNdT&ust=1710561352541000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNDYw_ev9YQDFQAAAAAdAAAAABAE](https://s15543.pcdn.co/wp-content/uploads/2020/06/social-graphic-man-in-the-middle-v4-1-768x355-1.png)" width="100%" height="300">
 </div>
 
 <br>
