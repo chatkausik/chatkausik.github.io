@@ -3,7 +3,7 @@
 A data science project to predict whether a transaction is a fraud or not.
 
 <div align="center">
-    <img alt="churn" src="https://www.finance-monthly.com/Finance-Monthly/wp-content/uploads/2018/07/Fraud-Epidemic-Costs-%C2%A33.2-Trillion-Globally.jpg" width="100%" height="300">
+    <img alt="churn" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.turkhackteam.org%2Fkonular%2Fapple-cihazlari-hacklemek-mumkun-mu.1955764%2F&psig=AOvVaw1_Y9lfNdU8vGZ_jHWJPNdT&ust=1710561352541000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNDYw_ev9YQDFQAAAAAdAAAAABAE" width="100%" height="300">
 </div>
 
 <br>
@@ -194,6 +194,3 @@ The company may expect a revenue of R\$ 57,251,574.44. This result may show the 
 
 * Implement the api on the heroku plataform.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
