@@ -18,4 +18,7 @@ Passionate software engineer & data scientist with experience in Big Data techno
 **Senior Software Engineer @ Cognizant (_Sep 2006 - Nov 2020_)**
 
 ## Projects
-### Project 1 ###
+### Fraud Detection for Transactions ###
+
+Development of a machine learning model to predict whether a financial transaction is fraudulent or legitimate.
+The Fraud Company aims to enhance its fraud detection service in the Brazilian market. With a revenue-sharing model heavily dependent on correct fraud detection, the company faces significant financial risk if its models are not precise. This project aims to mitigate this risk by building a robust machine learning model capable of accurately finding fraudulent transactions. 
