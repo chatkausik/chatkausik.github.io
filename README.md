@@ -41,7 +41,10 @@ Context: A retail firm has many products in their inventory, and very few of the
 Objective: The sales and growth team of the retail firm wants to determine which products from their inventory should they retain to sell and the ones to discard 
 Data: The data given contains both historical sales data AND active inventory
 
-# [Movie Recommender: Project Overview](https://github.com/chatkausik/chatkausik.github.io/tree/master/Movie%20Reccomender%20System)
+### Movie Recommendation ###
+
+[Publication](https://github.com/chatkausik/chatkausik.github.io/tree/master/Movie%20Reccomender%20System)
+
 * Using several datasets to build a recommender system for movies by correlation tactics and utilization of pivot tables
 1.	Load libraries
 2.	Load the ratings dataset and preview the first 10 rows
@@ -60,13 +63,18 @@ Data: The data given contains both historical sales data AND active inventory
 15.	Merge the original movie dataset to show all fields
 16.	Display the recommended list dataframe to include the movie selection and ten recommended movies (Nair, 2019)
 
-# [MLB Attendance: Project Overview](https://github.com/chatkausik/chatkausik.github.io/tree/master/MLB%20Attendance)
+### MLB Attendance ###
+
+[Publication](https://github.com/chatkausik/chatkausik.github.io/tree/master/MLB%20Attendance)
+
 * Use MLB data to make a recommendation on how to improve attendance
 * Data was obtained from the Los Angelas Dodgers Major League Baseball team
 
 ![](/images/MLB%20Correlation%20Heatmap.jpeg)
 
-# [House Price Prediction: Project Overview](https://github.com/chatkausik/chatkausik.github.io/tree/master/Housing%20Price%20Prediction)
+### House Price Prediction  ###
+
+[Publication](https://github.com/chatkausik/chatkausik.github.io/tree/master/Housing%20Price%20Prediction)
 
 * This project uses linear regression to predict sale price based on dependable data. 
 * Data was obtained from a housing dataset from Kaggle that examines data from various cities with several attributes:
