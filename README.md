@@ -20,7 +20,7 @@ Passionate software engineer & data scientist with experience in Big Data techno
 ## Projects
 ### Fraud Detection for Transactions ###
 
-[Publication](https://github.com/chatkausik/chatkausik.github.io/tree/main/Fraud%20Detection%20For%20Transactions)
+[Publication](https://github.com/chatkausik/chatkausik.github.io/tree/master/Fraud%20Detection%20For%20Transactions)
 
 Development of a machine learning model to predict whether a financial transaction is fraudulent or legitimate.
 The Fraud Company aims to enhance its fraud detection service in the Brazilian market. With a revenue-sharing model heavily dependent on correct fraud detection, the company faces significant financial risk if its models are not precise. This project aims to mitigate this risk by building a robust machine learning model capable of accurately finding fraudulent transactions. 
