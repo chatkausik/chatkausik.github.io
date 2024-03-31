@@ -27,7 +27,7 @@ The Fraud Company aims to enhance its fraud detection service in the Brazilian m
 
 ### Daily Slack updates integrating Flight and Weather APIs with data sources ###
 
-[Publication](https://github.com/chatkausik/chatkausik.github.io/tree/main/Daily%20Slack%20updates%20integrating%20Flight%20and%20Weather%20APIs%20with%20data%20sources)
+[Publication](https://github.com/chatkausik/chatkausik.github.io/tree/master/Daily%20Slack%20updates%20integrating%20Flight%20and%20Weather%20APIs%20with%20data%20sources)
 
 In modern application development, integrating data from diverse sources in various formats is a common challenge, especially in the realm of machine learning applications. Apache NiFi presents a powerful solution for seamlessly orchestrating data flow between different systems. This project demonstrates how Apache NiFi can be leveraged to collect data from two distinct APIs - aviationstack.com for real-time flight data and visualcrossing.com for weather data - and subsequently write this data to multiple databases while also sending daily notifications to Slack. The project provides a step-by-step research guide on setting up data ingestion, transformation, and dissemination pipelines using Apache NiFi processors.
 
