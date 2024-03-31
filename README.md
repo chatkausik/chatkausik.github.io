@@ -34,14 +34,62 @@ In modern application development, integrating data from diverse sources in vari
 
 ### Retail Inventory Management ###
 
-[Publication](https://github.com/chatkausik/chatkausik.github.io/tree/main/Retail%20Inventory%20Management)
+[Publication](https://github.com/chatkausik/chatkausik.github.io/tree/master/Retail%20Inventory%20Management)
 
 Goal: Building a binary classifier which gives us a list of product ID which need to retained in the inventory or list of products that need to be removed
 Context: A retail firm has many products in their inventory, and very few of them tend to sell (only about 10% sell each year) and many of the products only have a single sale in the course of a year
 Objective: The sales and growth team of the retail firm wants to determine which products from their inventory should they retain to sell and the ones to discard 
 Data: The data given contains both historical sales data AND active inventory
 
+# [Movie Recommender: Project Overview](https://github.com/chatkausik/chatkausik.github.io/tree/master/Movie%20Reccomender%20System)
+* Using several datasets to build a recommender system for movies by correlation tactics and utilization of pivot tables
+1.	Load libraries
+2.	Load the ratings dataset and preview the first 10 rows
+3.	Load the movie titles dataset and preview the first 10 rows
+4.	Merge the two dataframes into one
+5.	Preview the first 10 rows of the new dataframe
+6.	Create a new dataframe that displays average rating (mean) for each movie in the data
+7.	Dreate a dataframe that shows the total ratings cast for each movie
+8.	Calculating the Correlation by making a pivot table (rows=userID, columsns=Movie Title)
+9.	Preview the first ten rows pivot dataframe
+10.	Create a correlation value using the 'corrwith' function in conjunction with a movie choice
+11.	Display the first five rows of computed pairwise correlation between rows and columns
+12.	Create a new variable named 'recommend' and drop all the empty values
+13.	Merge the ratings to the correlation table
+14.	Filter all movies that are correlated to 'Godfather, The (1972)' using the sort_values function
+15.	Merge the original movie dataset to show all fields
+16.	Display the recommended list dataframe to include the movie selection and ten recommended movies (Nair, 2019)
 
+# [MLB Attendance: Project Overview](https://github.com/chatkausik/chatkausik.github.io/tree/master/MLB%20Attendance)
+* Use MLB data to make a recommendation on how to improve attendance
+* Data was obtained from the Los Angelas Dodgers Major League Baseball team
+
+![](/images/MLB%20Correlation%20Heatmap.jpeg)
+
+# [House Price Prediction: Project Overview](https://github.com/chatkausik/chatkausik.github.io/tree/master/Housing%20Price%20Prediction)
+
+* This project uses linear regression to predict sale price based on dependable data. 
+* Data was obtained from a housing dataset from Kaggle that examines data from various cities with several attributes:
+  *	Date
+  *	Price
+  *	Number of bedrooms
+  *	Number of bathrooms	
+  *	Square foot of total living space
+  *	Square foot of the lot
+  *	Number of floors
+  *	Waterfront status
+  *	View rating
+  *	Condition rating
+  *	Square foot of above
+  *	Square foot the basement
+  *	Year built
+  *	Year renovated
+  *	Street Address
+  *	City
+  *	State/Zip Code
+  *	Country
+
+![](/images/distplot.png)
 
 #### ![lin](https://user-images.githubusercontent.com/13950516/162667635-e0d3d3f4-6e9f-4cbf-9308-d86507e2909d.png)[My Linkedin Profile](https://www.linkedin.com/in/kausik-chat-data-science/)
 
