@@ -63,6 +63,8 @@ Data: The data given contains both historical sales data AND active inventory
 15.	Merge the original movie dataset to show all fields
 16.	Display the recommended list dataframe to include the movie selection and ten recommended movies (Nair, 2019)
 
+![]( Movie%20Database/Weeks%209%20%26%2010%5CPosters%5C/Weeks%209%20%26%2010%5CPosters%5CThe%20Godfather.jpg)
+
 ### MLB Attendance ###
 
 [Publication](https://github.com/chatkausik/chatkausik.github.io/tree/master/MLB%20Attendance)
