@@ -7,7 +7,7 @@ pipelines using Apache NiFi processors.
 
 ![image](/assets/img/NIFIFLOW.png)
 
-![image](https://github.com/chatkausik/chatkausik.github.io/tree/master/assets/img/slack.png)
+![image](/assets/img/slack.png)
 
 ## Conclusion: ##
 This project illustrates the versatility of Apache NiFi in orchestrating complex data flows across heterogeneous systems. 

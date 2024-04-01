@@ -32,7 +32,7 @@ Development of a machine learning model to predict whether a financial transacti
 
 In modern application development, integrating data from diverse sources in various formats is a common challenge, especially in the realm of machine learning applications. Apache NiFi presents a powerful solution for seamlessly orchestrating data flow between different systems. This project demonstrates how Apache NiFi can be leveraged to collect data from two distinct APIs - aviationstack.com for real-time flight data and visualcrossing.com for weather data - and subsequently write this data to multiple databases while also sending daily notifications to Slack. The project provides a step-by-step research guide on setting up data ingestion, transformation, and dissemination pipelines using Apache NiFi processors.
 
-![image](https://github.com/chatkausik/chatkausik.github.io/tree/master/assets/img/NIFIFLOW.png)
+![image](/assets/img/NIFIFLOW.png)
 
 ### Retail Inventory Management ###
 
