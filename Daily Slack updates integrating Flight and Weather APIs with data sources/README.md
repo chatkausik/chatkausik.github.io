@@ -5,9 +5,9 @@ collect data from two distinct APIs - aviationstack.com for real-time flight dat
 databases while also sending daily notifications to Slack. The project provides a step-by-step research guide on setting up data ingestion, transformation, and dissemination 
 pipelines using Apache NiFi processors.
 
-![image](https://github.com/chatkausik/chatkausik.github.io/assets/29112563/0cda8028-bcf4-4454-9672-ce098b80e548)
+![image](https://github.com/chatkausik/chatkausik.github.io/tree/master/assets/img/NIFIFLOW.png)
 
-![image](https://github.com/chatkausik/chatkausik.github.io/assets/29112563/5477042c-fb1e-4df9-8935-a65f4ad072b0)
+![image](https://github.com/chatkausik/chatkausik.github.io/tree/master/assets/img/slack.png)
 
 ## Conclusion: ##
 This project illustrates the versatility of Apache NiFi in orchestrating complex data flows across heterogeneous systems. 

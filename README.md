@@ -17,13 +17,14 @@ Passionate software engineer & data scientist with experience in Big Data techno
 
 **Senior Software Engineer @ Cognizant (_Sep 2006 - Nov 2020_)**
 
-## Projects
+## Data Science Projects
 ### Fraud Detection for Transactions ###
 
 [Publication](https://github.com/chatkausik/chatkausik.github.io/tree/master/Fraud%20Detection%20For%20Transactions)
 
-Development of a machine learning model to predict whether a financial transaction is fraudulent or legitimate.
-The Fraud Company aims to enhance its fraud detection service in the Brazilian market. With a revenue-sharing model heavily dependent on correct fraud detection, the company faces significant financial risk if its models are not precise. This project aims to mitigate this risk by building a robust machine learning model capable of accurately finding fraudulent transactions. 
+Development of a machine learning model to predict whether a financial transaction is fraudulent or legitimate.The Fraud Company aims to enhance its fraud detection service in the Brazilian market. With a revenue-sharing model heavily dependent on correct fraud detection, the company faces significant financial risk if its models are not precise. This project aims to mitigate this risk by building a robust machine learning model capable of accurately finding fraudulent transactions. 
+
+![Fraud Detection](https://nexocode.com/images/nlp-in-telecommunication-thumbnail.webp)
 
 ### Daily Slack updates integrating Flight and Weather APIs with data sources ###
 
@@ -31,6 +32,7 @@ The Fraud Company aims to enhance its fraud detection service in the Brazilian m
 
 In modern application development, integrating data from diverse sources in various formats is a common challenge, especially in the realm of machine learning applications. Apache NiFi presents a powerful solution for seamlessly orchestrating data flow between different systems. This project demonstrates how Apache NiFi can be leveraged to collect data from two distinct APIs - aviationstack.com for real-time flight data and visualcrossing.com for weather data - and subsequently write this data to multiple databases while also sending daily notifications to Slack. The project provides a step-by-step research guide on setting up data ingestion, transformation, and dissemination pipelines using Apache NiFi processors.
 
+![image](https://github.com/chatkausik/chatkausik.github.io/tree/master/assets/img/NIFIFLOW.png)
 
 ### Retail Inventory Management ###
 
