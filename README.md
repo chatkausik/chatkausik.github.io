@@ -70,7 +70,7 @@ Data: The data given contains both historical sales data AND active inventory.
 15.	Merge the original movie dataset to show all fields
 16.	Display the recommended list dataframe to include the movie selection and ten recommended movies (Nair, 2019)
 
-![]( Movie%20Database/Weeks%209%20%26%2010%5CPosters%5C/Weeks%209%20%26%2010%5CPosters%5CThe%20Godfather.jpg)
+![](![image](/assets/img/movies.jpeg))
 
 ### MLB Attendance ###
 
@@ -79,7 +79,7 @@ Data: The data given contains both historical sales data AND active inventory.
 * Use MLB data to make a recommendation on how to improve attendance
 * Data was obtained from the Los Angelas Dodgers Major League Baseball team
 
-![](/images/MLB%20Correlation%20Heatmap.jpeg)
+![](/assets/img/MLB%20Correlation%20Heatmap.jpeg)
 
 ### Covid 19 Data Analysis and Comparison ###
 
