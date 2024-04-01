@@ -70,7 +70,7 @@ Data: The data given contains both historical sales data AND active inventory.
 15.	Merge the original movie dataset to show all fields
 16.	Display the recommended list dataframe to include the movie selection and ten recommended movies (Nair, 2019)
 
-![](![image](/assets/img/movies.jpeg))
+![image](/assets/img/movies.jpeg)
 
 ### MLB Attendance ###
 
