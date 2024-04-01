@@ -115,7 +115,7 @@ The novel coronavirus, also known as SARS-CoV-2, is a contagious respiratory vir
   *	State/Zip Code
   *	Country
 
-![](/images/distplot.png)
+![](/assets/img/distplot.png)
 
 ### Airline Safety ###
 
