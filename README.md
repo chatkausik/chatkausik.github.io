@@ -38,10 +38,15 @@ In modern application development, integrating data from diverse sources in vari
 
 [Publication](https://github.com/chatkausik/chatkausik.github.io/tree/master/Retail%20Inventory%20Management)
 
-Goal: Building a binary classifier which gives us a list of product ID which need to retained in the inventory or list of products that need to be removed
-Context: A retail firm has many products in their inventory, and very few of them tend to sell (only about 10% sell each year) and many of the products only have a single sale in the course of a year
-Objective: The sales and growth team of the retail firm wants to determine which products from their inventory should they retain to sell and the ones to discard 
-Data: The data given contains both historical sales data AND active inventory
+Goal: Building a binary classifier which gives us a list of product ID which need to retained in the inventory or list of products that need to be removed.
+
+Context: A retail firm has many products in their inventory, and very few of them tend to sell (only about 10% sell each year) and many of the products only have a single sale in the course of a year.
+
+Objective: The sales and growth team of the retail firm wants to determine which products from their inventory should they retain to sell and the ones to discard.
+
+Data: The data given contains both historical sales data AND active inventory.
+
+![image](https://user-images.githubusercontent.com/13950516/162671469-439c2144-cb8a-41e2-ad26-a91c361cb248.png)
 
 ### Movie Recommendation ###
 
