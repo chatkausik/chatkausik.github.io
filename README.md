@@ -26,6 +26,12 @@ Development of a machine learning model to predict whether a financial transacti
 
 ![Fraud Detection](/assets/img/fraud.png)
 
+### Credit Card Approval ###
+
+[Publication](https://github.com/chatkausik/chatkausik.github.io/tree/master/Credit%20Card%20Approval)
+
+The goal of this project is to define a fraud montoring model to help banks to automate the Credit Card eligibility process based on customer detail provided while filling online application form & Credit history of customer. The decision of approving a credit card or loan is majorly dependent on the personal and financial background of the applicant. Factors like, age, gender, income, employment status, credit history and other attributes all carry weight in the approval decision. Credit analysis involves the measure to investigate the probability of a third-party to pay back the loan to the bank on time and predict its default characteristic. Analysis focus on recognizing, assessing, and reducing the financial or other risks that could lead to loss involved in the transaction.
+
 ### Daily Slack updates integrating Flight and Weather APIs with data sources ###
 
 [Publication](https://github.com/chatkausik/chatkausik.github.io/tree/master/Daily%20Slack%20updates%20integrating%20Flight%20and%20Weather%20APIs%20with%20data%20sources)
