@@ -123,6 +123,8 @@ The novel coronavirus, also known as SARS-CoV-2, is a contagious respiratory vir
 
 Is  the Airline safe?
 
+![](/assets/img/airtravel.png)
+
 #### ![lin](https://user-images.githubusercontent.com/13950516/162667635-e0d3d3f4-6e9f-4cbf-9308-d86507e2909d.png)[My Linkedin Profile](https://www.linkedin.com/in/kausik-chat-data-science/)
 
 #### [Github Profile](https://github.com/chatkausik)
