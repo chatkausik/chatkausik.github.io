@@ -17,6 +17,8 @@ Passionate software engineer & data scientist with experience in Big Data techno
 
 **Senior Software Engineer @ Cognizant (_Sep 2006 - Nov 2020_)**
 
+#### ![lin](https://user-images.githubusercontent.com/13950516/162667635-e0d3d3f4-6e9f-4cbf-9308-d86507e2909d.png)[My Linkedin Profile](https://www.linkedin.com/in/kausik-chat-data-science/)
+
 ## Data Science Projects
 ### Fraud Detection for Transactions ###
 
@@ -134,8 +136,10 @@ The objective of this project is to build a Machine Learning model for the predi
 
 Is  the Airline safe?
 
+Aviation industry is highly sophisticated, very competitive and constantly evolving. We will be amazed if we think about the emerging and evolving innovations regarding comfort and safety in the airlines space. Ranging from evolving cockpit technology, constant flight status monitoring, passenger cabin safety measures, ultra modern communication through air traffic control and airport control, security checking and airport safety, - all work together to provide a better and safer travel experience. Considering all the aspects, air travel is arguably the safest means of travelling in the present era.
+
 ![](/assets/img/airtravel.png)
 
-#### ![lin](https://user-images.githubusercontent.com/13950516/162667635-e0d3d3f4-6e9f-4cbf-9308-d86507e2909d.png)[My Linkedin Profile](https://www.linkedin.com/in/kausik-chat-data-science/)
 
-#### [Github Profile](https://github.com/chatkausik)
+
+
