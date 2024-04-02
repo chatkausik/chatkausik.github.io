@@ -48,27 +48,13 @@ Data: The data given contains both historical sales data AND active inventory.
 
 ![image](https://user-images.githubusercontent.com/13950516/162671469-439c2144-cb8a-41e2-ad26-a91c361cb248.png)
 
-### Movie Recommendation ###
+### Movie Recommendation System ###
 
 [Publication](https://github.com/chatkausik/chatkausik.github.io/tree/master/Movie%20Reccomender%20System)
 
-* Using several datasets to build a recommender system for movies by correlation tactics and utilization of pivot tables
-1.	Load libraries
-2.	Load the ratings dataset and preview the first 10 rows
-3.	Load the movie titles dataset and preview the first 10 rows
-4.	Merge the two dataframes into one
-5.	Preview the first 10 rows of the new dataframe
-6.	Create a new dataframe that displays average rating (mean) for each movie in the data
-7.	Dreate a dataframe that shows the total ratings cast for each movie
-8.	Calculating the Correlation by making a pivot table (rows=userID, columsns=Movie Title)
-9.	Preview the first ten rows pivot dataframe
-10.	Create a correlation value using the 'corrwith' function in conjunction with a movie choice
-11.	Display the first five rows of computed pairwise correlation between rows and columns
-12.	Create a new variable named 'recommend' and drop all the empty values
-13.	Merge the ratings to the correlation table
-14.	Filter all movies that are correlated to 'Godfather, The (1972)' using the sort_values function
-15.	Merge the original movie dataset to show all fields
-16.	Display the recommended list dataframe to include the movie selection and ten recommended movies (Nair, 2019)
+The goal of this project is to provide a recommendation system for video content providers to predict whether someone will enjoy a movie based on how much they liked or disliked other movies. 
+Recommendation Systems are a type of information filtering systems as they improve the quality of search results and provides items that are more relevant to the search item or are related to the search history of the user. 
+They are used to predict the rating or preference that a user would give to an item. Almost every major tech company has applied them in some form or the other. Major companies like YouTube, Amazon, Netflix use recommendation systems in social and e- commerce sites use recommendation system for its users to suggest for an individual according to their requirement more precise and accurate. These online content and service providers have a huge amount of content so the problem which arises is which data is required for whom so the problem of providing apposite content frequently. This project represents the overview and approaches of techniques generated in a recommendation system.
 
 ![image](/assets/img/movies.jpeg)
 
@@ -94,26 +80,10 @@ The novel coronavirus, also known as SARS-CoV-2, is a contagious respiratory vir
 
 [Publication](https://github.com/chatkausik/chatkausik.github.io/tree/master/Housing%20Price%20Prediction)
 
-* This project uses linear regression to predict sale price based on dependable data. 
-* Data was obtained from a housing dataset from Kaggle that examines data from various cities with several attributes:
-  *	Date
-  *	Price
-  *	Number of bedrooms
-  *	Number of bathrooms	
-  *	Square foot of total living space
-  *	Square foot of the lot
-  *	Number of floors
-  *	Waterfront status
-  *	View rating
-  *	Condition rating
-  *	Square foot of above
-  *	Square foot the basement
-  *	Year built
-  *	Year renovated
-  *	Street Address
-  *	City
-  *	State/Zip Code
-  *	Country
+The objective of this project is to build a Machine Learning model for the prediction of housing prices based on pattern extracted from our USA_Housing dataset which contains data about USA housing sales provided by Kaggle. This dataset contains features like number of bedrooms, number of bathrooms, sqft, year built, year renovated, condition, zipcode and the target variable will be price. We will use various visualization methods to analyze the correlation of each feature as part of EDA. Descriptive analysis and quantitative analysis will use subsets of it depending on models. This project consists of two phases: -
+
+* Phase I: Focuses on data cleaning, exploration and preprocessing.
+* Phase II : Machine Learning model building, validation and prediction.
 
 ![](/assets/img/distplot.png)
 
