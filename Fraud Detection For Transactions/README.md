@@ -1,4 +1,4 @@
-# Transaction Fraud Detection
+# Fraud Detection  for Transactions
 
 A data science project to predict whether a transaction is a fraud or not.
 
