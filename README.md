@@ -54,6 +54,7 @@ Data: The data given contains both historical sales data AND active inventory.
 
 The goal of this project is to provide a recommendation system for video content providers to predict whether someone will enjoy a movie based on how much they liked or disliked other movies. 
 Recommendation Systems are a type of information filtering systems as they improve the quality of search results and provides items that are more relevant to the search item or are related to the search history of the user. 
+
 They are used to predict the rating or preference that a user would give to an item. Almost every major tech company has applied them in some form or the other. Major companies like YouTube, Amazon, Netflix use recommendation systems in social and e- commerce sites use recommendation system for its users to suggest for an individual according to their requirement more precise and accurate. These online content and service providers have a huge amount of content so the problem which arises is which data is required for whom so the problem of providing apposite content frequently. This project represents the overview and approaches of techniques generated in a recommendation system.
 
 ![image](/assets/img/movies.jpeg)
@@ -71,9 +72,9 @@ They are used to predict the rating or preference that a user would give to an i
 
 [Publication](https://github.com/chatkausik/chatkausik.github.io/tree/master/Covid%2019%20Data%20Analysis%20and%20Comparison)
 
-![https://user-images.githubusercontent.com/13950516/162676269-ab24f4ed-7089-44de-bc64-64c2ae6b0710.png![image]](https://user-images.githubusercontent.com/29112563/219549066-eea78b1c-75ef-404d-96a7-12024afed8b5.png)
-
 The novel coronavirus, also known as SARS-CoV-2, is a contagious respiratory virus that first reported in Wuhan, China. On 2/11/2020, the World Health Organization designated the name COVID-19 for the disease caused by the novel coronavirus. This new strain of virus has strike fear in many countries as cities are quarantined and hospitals are overcrowded. This project aims at exploring COVID-19 through data analysis and visualization.
+
+![https://user-images.githubusercontent.com/13950516/162676269-ab24f4ed-7089-44de-bc64-64c2ae6b0710.png![image]](https://user-images.githubusercontent.com/29112563/219549066-eea78b1c-75ef-404d-96a7-12024afed8b5.png)
 
 
 ### House Price Prediction  ###
