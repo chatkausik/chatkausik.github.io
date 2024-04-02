@@ -47,11 +47,9 @@ In modern application development, integrating data from diverse sources in vari
 Artist identification is traditionally performed by art historians and curators who have expertise and familiarity with different artists and styles of art. This is a complex and interesting problem for computers because identifying an artist does not just require object or face detection; artists can paint a wide variety of objects and scenes.
 This approach is motivated by the hypothesis that every artist has their own unique style of art and that we can improve upon existing artist identification methods by using a CNN to determine the best possible feature representation of paintings.
 
-### IMDB Movie score recommender & Movie review sentiment analysis.###
+### IMDB Movie score recommender & Movie review sentiment analysis. ###
 
 [Publication](https://github.com/chatkausik/First-Capstone-Project)
-
-## Purpose, motivation and description:
 
 1. What can we say about the success of a movie before it is released? Are there
 certain companies (Pixar?) that have found a consistent formula? Given that major
@@ -72,11 +70,8 @@ with movie review sentiment analysis.
 high of overview of the probable score of the new movie they are releasing like a
 pre-poll forecast.
 
-## Questions:
-## How to recommend IMDB Movie Score(Score ranges from 0-Low to 10-Excellent) for the new movies? 
-   Refer to the notebook "Capstone_1_movierecmnd_iter_1.ipynb" for details.
-## How to identify bad(0) or good(1) sentiment from Movie reviews? 
-   Refer to the notebook "Sentiment Analysis of Movie Reviews using multilayer RNNs.ipynb" for details.
+* How to recommend IMDB Movie Score(Score ranges from 0-Low to 10-Excellent) for the new movies? 
+* How to identify bad(0) or good(1) sentiment from Movie reviews? 
 
 
 ### Retail Inventory Management ###
