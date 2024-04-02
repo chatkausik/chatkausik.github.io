@@ -3,6 +3,8 @@ Passionate software engineer & data scientist with experience in Big Data techno
 
 #### Technical skills: Python, R, SQL, AWS, Matlab, Statistics, Bigdata, PySpark, Data  Visualization, NoSQL, DB2, Java, Mainframe and Microsoft Technologies.
 
+#### ![lin](https://user-images.githubusercontent.com/13950516/162667635-e0d3d3f4-6e9f-4cbf-9308-d86507e2909d.png)[My Linkedin Profile](https://www.linkedin.com/in/kausik-chat-data-science/)
+
 ## Education
 - MS, Data Science | Bellevue University (_June 2024_)
 - B.E., Electrical Engineering | Bengal Engineering  and Science University, India (_July 2006_)
@@ -17,7 +19,6 @@ Passionate software engineer & data scientist with experience in Big Data techno
 
 **Senior Software Engineer @ Cognizant (_Sep 2006 - Nov 2020_)**
 
-#### ![lin](https://user-images.githubusercontent.com/13950516/162667635-e0d3d3f4-6e9f-4cbf-9308-d86507e2909d.png)[My Linkedin Profile](https://www.linkedin.com/in/kausik-chat-data-science/)
 
 ## Data Science Projects
 ### Fraud Detection for Transactions ###
