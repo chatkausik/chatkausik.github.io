@@ -34,6 +34,14 @@ In modern application development, integrating data from diverse sources in vari
 
 ![image](/assets/img/NIFIFLOW.png)
 
+### Artist identification from their Paintings. ###
+
+[Publication](https://github.com/chatkausik/Second-Capstone-Project)
+
+Artist identification is traditionally performed by art historians and curators who have expertise and familiarity with different artists and styles of art. This is a complex and interesting problem for computers because identifying an artist does not just require object or face detection; artists can paint a wide variety of objects and scenes.
+This approach is motivated by the hypothesis that every artist has their own unique style of art and that we can improve upon existing artist identification methods by using a CNN to determine the best possible feature representation of paintings.
+
+
 ### Retail Inventory Management ###
 
 [Publication](https://github.com/chatkausik/chatkausik.github.io/tree/master/Retail%20Inventory%20Management)
