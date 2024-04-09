@@ -2,8 +2,7 @@
 
 A data science project to predict the purchases that will be made by a new customer, during the following year and this, from its first purchase.
 
-![Fraud Detection](https://nexocode.com/images/nlp-in-telecommunication-thumbnail.webp)
-
+![Customer Segmentation](/assets/img/Custommer-Segmentation.png)
 
 ## 1.0 Business Problem
 
