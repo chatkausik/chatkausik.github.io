@@ -2,7 +2,7 @@
 
 A data science project to predict the purchases that will be made by a new customer, during the following year and this, from its first purchase.
 
-![Customer Segmentation](/assets/img/Custommer-Segmentation.png)
+![Customer Segmentation](/assets/img/Customer-Segmentation.png)
 
 ## 1.0 Business Problem
 
