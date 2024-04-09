@@ -29,6 +29,12 @@ Development of a machine learning model to predict whether a financial transacti
 
 ![Fraud Detection](/assets/img/fraud.png)
 
+### Customer Segmentation on Eocommerce Data ###
+
+[Publication](https://github.com/chatkausik/chatkausik.github.io/tree/master/Customer%20Segmentation%20on%20E-commerce%20data)
+
+The project aims to solve the challenge of ineffective generic marketing strategies by developing a customer segmentation model that can accurately categorize customers based on their behavior, preferences, and purchase history. This will enable the E-commerce platform to tailor its marketing efforts, promotions, and product recommendations to specific customer segments, ultimately improving customer satisfaction, retention, and sales. Based on this analysis, I develop a model that allows to predict the purchases that will be made by a new customer, during the following year and this, from its first purchase.
+
 ### Credit Card Approval ###
 
 [Publication](https://github.com/chatkausik/chatkausik.github.io/tree/master/Credit%20Card%20Approval)
