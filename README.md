@@ -35,6 +35,8 @@ Development of a machine learning model to predict whether a financial transacti
 
 The project aims to solve the challenge of ineffective generic marketing strategies by developing a customer segmentation model that can accurately categorize customers based on their behavior, preferences, and purchase history. This will enable the E-commerce platform to tailor its marketing efforts, promotions, and product recommendations to specific customer segments, ultimately improving customer satisfaction, retention, and sales. Based on this analysis, I develop a model that allows to predict the purchases that will be made by a new customer, during the following year and this, from its first purchase.
 
+![Customer Segmentation](/assets/img/Customer-Segmentation.png)
+
 ### Credit Card Approval ###
 
 [Publication](https://github.com/chatkausik/chatkausik.github.io/tree/master/Credit%20Card%20Approval)
