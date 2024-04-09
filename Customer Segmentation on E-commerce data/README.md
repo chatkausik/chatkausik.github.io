@@ -1,4 +1,4 @@
-# Customer Segmentation for Ecommerce Personalization
+# Customer Segmentation for E-commerce Personalization
 
 A data science project to predict the purchases that will be made by a new customer, during the following year and this, from its first purchase.
 

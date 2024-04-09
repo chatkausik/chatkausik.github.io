@@ -29,7 +29,7 @@ Development of a machine learning model to predict whether a financial transacti
 
 ![Fraud Detection](/assets/img/fraud.png)
 
-### Customer Segmentation on Eocommerce Data ###
+### Customer Segmentation on E-commerce Data ###
 
 [Publication](https://github.com/chatkausik/chatkausik.github.io/tree/master/Customer%20Segmentation%20on%20E-commerce%20data)
 
