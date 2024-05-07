@@ -29,6 +29,12 @@ Development of a machine learning model to predict whether a financial transacti
 
 ![Fraud Detection](/assets/img/fraud.png)
 
+### American Express - Default Prediction Predict if a customer will default in the future ###
+
+The project aims to leverage machine learning techniques to build a predictive model that assesses the probability of a customer defaulting on their credit card balance within American Express. By accurately predicting default events, American Express can optimize lending decisions, enhance risk management strategies, and improve the overall customer experience. 
+
+![Default Prediction ](/assets/img/AMEX.jpeg)
+
 ### Customer Segmentation on E-commerce Data ###
 
 [Publication](https://github.com/chatkausik/chatkausik.github.io/tree/master/Customer%20Segmentation%20on%20E-commerce%20data)
